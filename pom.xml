@@ -14,7 +14,7 @@
   <url>https://wiki.jenkins-ci.org/display/JENKINS/OpenShift+Client+Plugin</url>
   <groupId>com.openshift.jenkins.plugins</groupId>
   <artifactId>openshift-client</artifactId>
-  <version>1.0.36-SNAPSHOT</version>
+  <version>1.0.38-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <properties>
